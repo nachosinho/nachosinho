@@ -35,6 +35,7 @@ Outside of work, I enjoy building robotics-related projects, especially in motio
 ### CAD & Automation
 
 ![Autodesk Inventor](https://img.shields.io/badge/Autodesk_Inventor-EA2D2E?style=for-the-badge)
+![Fusion360](https://img.shields.io/badge/Fusion360-e6712e?style=for-the-badge)
 ![Power Platform](https://img.shields.io/badge/Microsoft_Power_Platform-742774?style=for-the-badge&logo=microsoft&logoColor=white)
 
 ---
