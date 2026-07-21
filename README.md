@@ -31,12 +31,13 @@ Outside of work, I enjoy building robotics-related projects, especially in motio
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-A22846?style=for-the-badge&logo=raspberry-pi&logoColor=white)
+![TIA Portal](https://img.shields.io/badge/TIA%20Portal-009999?style=for-the-badge&logo=siemens&logoColor=white)
 
 ### CAD & Automation
 
-![Autodesk Inventor](https://img.shields.io/badge/Autodesk_Inventor-EA2D2E?style=for-the-badge)
-![Fusion360](https://img.shields.io/badge/Fusion360-e6712e?style=for-the-badge)
-![Power Platform](https://img.shields.io/badge/Microsoft_Power_Platform-742774?style=for-the-badge&logo=microsoft&logoColor=white)
+![Autodesk Inventor](https://img.shields.io/badge/Autodesk_Inventor-EA2D2E?style=for-the-badge&logo=autodesk&logoColor=whit)
+![Fusion360](https://img.shields.io/badge/Fusion360-e6712e?style=for-the-badge&logo=autodesk&logoColor=whit)
+![Microsoft Power Platform](https://img.shields.io/badge/Power%20Platform-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
 
 ---
 
