@@ -24,6 +24,7 @@ Outside of work, I enjoy building robotics-related projects, especially in motio
 ![ROS2](https://img.shields.io/badge/ROS2-22314E?style=for-the-badge&logo=ros&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
 ### Tools
 
@@ -33,11 +34,17 @@ Outside of work, I enjoy building robotics-related projects, especially in motio
 ![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-A22846?style=for-the-badge&logo=raspberry-pi&logoColor=white)
 ![TIA Portal](https://img.shields.io/badge/TIA%20Portal-009999?style=for-the-badge&logo=siemens&logoColor=white)
 
-### CAD & Automation
+## CAD
 
-![Autodesk Inventor](https://img.shields.io/badge/Autodesk_Inventor-EA2D2E?style=for-the-badge&logo=autodesk&logoColor=whit)
-![Fusion360](https://img.shields.io/badge/Fusion360-e6712e?style=for-the-badge&logo=autodesk&logoColor=whit)
-![Microsoft Power Platform](https://img.shields.io/badge/Power%20Platform-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
+![Autodesk Inventor](https://img.shields.io/badge/Autodesk_Inventor-EA2D2E?style=for-the-badge&logo=autodesk&logoColor=white)
+![Fusion360](https://img.shields.io/badge/Fusion360-e6712e?style=for-the-badge&logo=autodesk&logoColor=white)
+
+### Digitalization & Web Development
+
+![Power Automate](https://img.shields.io/badge/Power%20Automate-0066FF?style=for-the-badge&logo=PowerAutomate&logoColor=white)
+![Power Apps](https://img.shields.io/badge/Power%20Apps-742774?style=for-the-badge&logo=PowerApps&logoColor=white)
+![SharePoint](https://img.shields.io/badge/SharePoint-036C70?style=for-the-badge&logo=MicrosoftSharePoint&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 
 ---
 
