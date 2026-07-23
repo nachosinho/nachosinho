@@ -61,7 +61,7 @@ Outside of work, I enjoy building robotics-related projects, especially in motio
 
 ## Beyond Engineering
 
-🏎️ Formula 1 • 💪 Gym • 🔧 Building things
+🏎️ Formula 1 • 💪 Gym • 🔧 Building things • ✈️ Travels
 
 ---
 
